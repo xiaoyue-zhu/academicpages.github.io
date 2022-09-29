@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Southeast University, School of Transportation"
-date: 2021-07-01
+date: 2022-07-01
 location: "Nanjing, China"
 ---
 
