@@ -16,6 +16,8 @@ Education
 ======
 
 * M.S., Transportation Planning and Management, Southeast University, 2020 - present
+* Exchange, Engineering, University of Waterloo, Fall 2019
+* Summer Session, University of California, Berkeley, Summer 2018
 * B.S., Transportation Engineering (*Maoyisheng Class*), Southeast University, 2016 - 2020
 
 Contact
