@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "About me"
-    url: /aboutme/
+  - title: "Research"
+    url: /research/
 
-  - title: "Experience"
-    url: /experience/    
+  - title: "Project"
+    url: /project/
 
   - title: "Teaching"
     url: /teaching/    
