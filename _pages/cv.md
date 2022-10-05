@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-If the embedded PDF below does not load, you can [download it here](/files/Xiaoyue_Zhu_Resume.pdf).
+You can download my CV [here](/files/Xiaoyue_Zhu_Resume.pdf).
