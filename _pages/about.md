@@ -23,5 +23,4 @@ Education
 Contact
 ======
 * Phone: +86 136-0373-7057
-
 * Email: xiaoyue_zhu@seu.edu.cn
