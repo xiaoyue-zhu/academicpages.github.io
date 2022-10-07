@@ -12,18 +12,22 @@ Hello! I'm Xiaoyue, a third-year master student at Southeast University, Nanjing
 
 The researches focused on traffic flow characteristics at highway weaving sections and highway work zones using vehicle trajectory data extracted from aerial videos recorded by drones. And I will pay attention to how can we regulate vehicles near highway work zones to improve traffic operation, using an integrated method that combine lane-change control with speed control, to finish my master's thesis. Projects were mainly applications of dynamic highway traffic management on smart highways. Besides, I participated in drafting of a local standards ([Hebei Administration for Market Regulation](http://scjg.hebei.gov.cn/info/88345) updated on Sept. 27, 2022) and a white paper. And I served as a teaching assistant in an undergraduate course, Traffic Safety, in Spring 2021 and Spring 2022.  
 
-## Education
+### Education
 
 * **M.S. in Transportation Planning and Management**
-Southeast University, 2020 - present (Advisor: Dr. Pan Liu)
+  
+  Southeast University (2020 - present) (Advisor: Dr. [Pan Liu](https://tc.seu.edu.cn/2019/1014/c25722a290335/page.htm))
 * **Exchange, Engineering**
-University of Waterloo, Fall 2019
+  
+  University of Waterloo (Fall 2019)
 * **Summer Session**
-University of California, Berkeley, Summer 2018
-* **B.E. in Transportation Engineering (*Maoyisheng Class*)**
-Southeast University, 2016 - 2020
+  
+  University of California, Berkeley (Summer 2018)
+* **B.E. in Transportation Engineering (*Mao Yisheng Class*)**
+  
+  Southeast University (2016 - 2020)
 
-## Contact
+### Contact
 
 * Phone: +86 136-0373-7057
 * Email: xiaoyue_zhu@seu.edu.cn
