@@ -30,4 +30,4 @@ The researches focused on traffic flow characteristics at highway weaving sectio
 ### Contact
 
 * Phone: +86 136-0373-7057
-* Email: xiaoyue_zhu@seu.edu.cn
+* Email: xiaoyue_zhu@seu.edu.cn / seutczxy@163.com (alternate email address)
